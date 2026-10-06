@@ -1,38 +1,167 @@
-# 💫 About Me:
-👋 Hi, I'm **Samkit Jain**! <br>  
-🎓 Final Year CSIT Student | 💻 Intern at **Cipher Web Infotech** <br>  
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samkit%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Big%20Data%20Security%20%26%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
 
-🚀 Passionate about solving real-world problems through technology. <br>  
-🏆 Participated in **10+ hackathons**, achieving **Top 3** positions twice. <br>  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+secure%2C+reliable+data+platforms+at+scale;Apache+Ranger+%E2%80%A2+Kerberos+%E2%80%A2+Spark+%E2%80%A2+Kafka+%E2%80%A2+Redis;ETL+orchestration+%E2%80%A2+Observability+%E2%80%A2+DevOps" alt="Typing SVG" />
+  </a>
+</p>
 
-💡 **Skills**: <br>  
-- 🖥️ Programming: **C++, Python, JavaScript** <br>  
-- 🗄️ Databases: **MySQL, MongoDB** <br>  
-
-🌟 Let's build something amazing together! <br>
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samkit_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samkit-jain-13567620a/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samkit1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samkit1707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samkit1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samkit1707&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samkit1707&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samkit-jain-13567620a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://samkitjainportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="https://instagram.com/samkit_17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Samkit1707&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samkit1707&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```yaml
+name:      Samkit Jain
+role:      Data Engineer @ Ksolves India Ltd.
+location:  Indore, India 🇮🇳
+focus:     [Big Data Security, Distributed Data Systems, DevOps & Observability]
+education: B.Tech, Computer Science & IT — Acropolis Institute (2021–2025)
+currently: Securing & scaling production Hadoop clusters
+motto:     "Secure by design. Reliable by default."
+```
+
+I design and secure large-scale Big Data infrastructure powering production Hadoop clusters. Over 2+ years I've grown from production support into building enterprise security and data platforms — from identity & access control to high-availability caching and ETL orchestration.
+
+## 🏆 Impact Highlights
+
+| | Achievement | Result |
+|:-:|---|:-:|
+| 🔐 | Enterprise security stack — **Ranger, Knox, Kerberos, LDAP/AD, Okta SSO** | **~90%** better access-control & audit coverage |
+| 🗝️ | Secrets management with **HashiCorp Vault & CyberArk** (HIPAA-compliant) | **~70%** less manual credential handling |
+| ⚡ | **Redis HA layer** (HAProxy + redis-shake) | **5M+** concurrent users · **100%** uptime |
+| 🔄 | ETL pipelines on **Airflow, Kestra, DolphinScheduler** (PySpark/YARN) | **~80%** less manual reconciliation · **~40%** fewer failures |
+| 📈 | Observability with **Prometheus, Grafana, Loki** | **~35%** faster incident detection |
+| 🎖️ | Recognized by the CEO | **100%** of production tickets resolved within SLA |
+
+## 🛠️ Tech Stack
+
+**Big Data & Streaming**
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**Security & Identity**
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Ranger-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Knox-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kerberos-4B5563?style=flat-square&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=FFEC6E" />
+  <img src="https://img.shields.io/badge/CyberArk-0B3D91?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Okta%20SSO-007DC1?style=flat-square&logo=okta&logoColor=white" />
+  <img src="https://img.shields.io/badge/LDAP%20%2F%20AD-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+
+**Orchestration, DevOps & Observability**
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kestra-6B21A8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/DolphinScheduler-1E40AF?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F2CC0C?style=flat-square&logo=grafana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**Languages & Development**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Junior Software Engineer** (Data Engineering) | Ksolves India Ltd. | Aug 2025 – Present |
+| Product Engineering Intern | Ksolves India Ltd. | Feb 2025 – Aug 2025 |
+| Frontend Web Developer Intern | Cipher Web Infotech | Jan 2025 – Feb 2025 |
+| Tester Intern | Wyreflow Technologies | Oct 2024 – Nov 2024 |
+| Frontend Developer Intern | TechnoHacks EduTech | Sep 2023 – Oct 2023 |
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Samkit1707/Finance-Trakker">💰 Finance Trakker</a></h3>
+      <p>Responsive finance-tracking app with interactive Chart.js visualizations for expense trends and category breakdowns, transaction management, and offline local storage.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Samkit1707/Sikhoo-India">🇮🇳 Sikhoo India</a></h3>
+      <p>Job-listing platform boosting employment for rural Indian communities — 40% higher engagement and 30% faster search through responsive design and optimized search.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Samkit1707/Algorithim-Visualizer-">🧮 Algorithm Visualizer</a></h3>
+      <p>Interactive visualizer that animates classic algorithms step by step to make them easier to understand.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Samkit1707/Machine-Learning-">🤖 Machine Learning</a></h3>
+      <p>Notebooks exploring data analysis and machine-learning models with Python.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+## 📜 Certifications
+
+- 📊 **Data Analytics & Visualization Job Simulation** — Accenture (2024)
+- 📈 **Career Essentials in Data Analysis** — Microsoft & LinkedIn (2024)
+- ☁️ **Alibaba Cloud Certification**
+- 📋 **Foundations of Project Management** — Google (Coursera)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samkit1707&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samkit1707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samkit1707&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samkit1707&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <b>🤝 Always happy to connect with fellow data engineers, DevOps engineers and data/AI practitioners.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</p>
