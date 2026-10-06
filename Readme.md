@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samkit%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Big%20Data%20Security%20%26%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samkit%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20Big%20Data%20Security%20and%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -150,10 +150,6 @@ I design and secure large-scale Big Data infrastructure powering production Hado
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Samkit1707&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samkit1707&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
 </p>
 
 ---
